@@ -1,0 +1,4 @@
+[core]
+    remote = C:\Data Science\project-6-Pharmaceutical\Rossmann-Sales\.dvc
+['remote "dvc-remote"']
+    url = C:\Data Science\project-6-Pharmaceutical\Rossmann-Sales\.dvc

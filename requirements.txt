@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+matplotlib
+awesome_streamlit
+streamlit
+statistics
+matplotlib
+scipy
+scikit-learn
+tensorflow
+mlflow
+statsmodels
+pickle
+ipykernel
+xgboost

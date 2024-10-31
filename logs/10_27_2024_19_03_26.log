@@ -1,0 +1,4 @@
+2024-10-27 18:58:32,906:logger:module 'numpy' has no attribute 'product'
+2024-10-27 19:02:16,152:logger:module 'numpy' has no attribute 'product'
+2024-10-27 19:02:53,720:logger:unknown Git revision '1d67267cdc1c78b2bb41a7efbd50af53a68cb5ba'
+2024-10-27 19:03:53,184:logger:module 'numpy' has no attribute 'product'

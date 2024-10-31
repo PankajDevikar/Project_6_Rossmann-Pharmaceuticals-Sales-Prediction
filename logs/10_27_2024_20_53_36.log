@@ -1,0 +1,81 @@
+2024-10-27 18:58:32,906:logger:module 'numpy' has no attribute 'product'
+2024-10-27 18:58:38,842:logger:unique values for CompetitionOpenSinceMonth  [ 9. 11. 12.  4. 10.  8. nan  3.  6.  5.  1.  2.  7.]
+2024-10-27 18:58:38,845:logger:unique values for CompetitionOpenSinceYear  [2008. 2007. 2006. 2009. 2015. 2013. 2014. 2000. 2011.   nan 2010. 2005.
+ 1999. 2003. 2012. 2004. 2002. 1961. 1995. 2001. 1990. 1994. 1900. 1998.]
+2024-10-27 18:58:38,848:logger:unique values for promo2sinceweek  [nan 13. 14.  1. 45. 40. 26. 22.  5.  6. 10. 31. 37.  9. 39. 27. 18. 35.
+ 23. 48. 36. 50. 44. 49. 28.]
+2024-10-27 18:58:38,854:logger:unique values for Promo2SinceYear  [  nan 2010. 2011. 2012. 2009. 2014. 2015. 2013.]
+2024-10-27 18:58:38,856:logger:unique values for PromoInterval  [nan 'Jan,Apr,Jul,Oct' 'Feb,May,Aug,Nov' 'Mar,Jun,Sept,Dec']
+2024-10-27 18:58:55,899:logger:successfully fixed missing values of CompetitionOpenSinceYear column with 1990
+2024-10-27 18:58:55,901:logger:successfully fixed missing values of CompetitionOpenSinceMonth column with 1
+2024-10-27 18:58:55,903:logger:successfully fixed missing values of Promo2SinceWeek column with 0
+2024-10-27 18:58:55,905:logger:successfully fixed missing values of Promo2SinceYear column with 0
+2024-10-27 18:58:55,908:logger:successfully fixed missing values of PromoInterval column with Nan,Nan,Nan,Nan
+2024-10-27 18:59:05,192:logger:successfully fixed missing values of CompetitionDistance column with 75860.0
+2024-10-27 18:59:12,929:logger:successfully changed PromoInterval column to string
+2024-10-27 18:59:12,931:logger:successfully changed StoreType column to string
+2024-10-27 18:59:12,934:logger:successfully changed Assortment column to string
+2024-10-27 18:59:12,935:logger:successfully changed StateHoliday column to string
+2024-10-27 18:59:12,936:logger:successfully changed Date column to datetime
+2024-10-27 18:59:12,943:logger:successfully changed CompetitionOpenSinceYear column to integer
+2024-10-27 18:59:12,944:logger:successfully changed CompetitionOpenSinceMonth column to integer
+2024-10-27 18:59:12,946:logger:successfully changed Promo2SinceWeek column to integer
+2024-10-27 18:59:12,947:logger:successfully changed Promo2SinceYear column to integer
+2024-10-27 18:59:12,948:logger:successfully finished fixing datatype
+2024-10-27 18:59:19,688:logger:successfully droped duplicates
+2024-10-27 19:02:16,152:logger:module 'numpy' has no attribute 'product'
+2024-10-27 19:02:33,136:logger:unique values for StateHoliday  ['0' 'a' 'b' 'c' 0]
+2024-10-27 19:02:39,767:logger:successfully replaced value of StateHoliday column with 0
+2024-10-27 19:02:39,803:logger:unique values for StateHoliday  ['0' 'a' 'b' 'c']
+2024-10-27 19:02:44,597:logger:successfully changed PromoInterval column to string
+2024-10-27 19:02:44,598:logger:successfully changed StoreType column to string
+2024-10-27 19:02:44,600:logger:successfully changed Assortment column to string
+2024-10-27 19:02:44,642:logger:successfully changed StateHoliday column to string
+2024-10-27 19:02:44,766:logger:successfully changed Date column to datetime
+2024-10-27 19:02:44,767:logger:successfully changed CompetitionOpenSinceYear column to integer
+2024-10-27 19:02:44,768:logger:successfully changed CompetitionOpenSinceMonth column to integer
+2024-10-27 19:02:44,771:logger:successfully changed Promo2SinceWeek column to integer
+2024-10-27 19:02:44,772:logger:successfully changed Promo2SinceYear column to integer
+2024-10-27 19:02:44,773:logger:successfully finished fixing datatype
+2024-10-27 19:02:49,433:logger:successfully droped duplicates
+2024-10-27 19:02:53,720:logger:unknown Git revision '1d67267cdc1c78b2bb41a7efbd50af53a68cb5ba'
+2024-10-27 19:03:53,184:logger:module 'numpy' has no attribute 'product'
+2024-10-27 19:03:59,471:logger:successfully changed PromoInterval column to string
+2024-10-27 19:03:59,472:logger:successfully changed StoreType column to string
+2024-10-27 19:03:59,474:logger:successfully changed Assortment column to string
+2024-10-27 19:03:59,478:logger:successfully changed StateHoliday column to string
+2024-10-27 19:03:59,491:logger:successfully changed Date column to datetime
+2024-10-27 19:03:59,492:logger:successfully changed CompetitionOpenSinceYear column to integer
+2024-10-27 19:03:59,495:logger:successfully changed CompetitionOpenSinceMonth column to integer
+2024-10-27 19:03:59,496:logger:successfully changed Promo2SinceWeek column to integer
+2024-10-27 19:03:59,498:logger:successfully changed Promo2SinceYear column to integer
+2024-10-27 19:03:59,499:logger:successfully finished fixing datatype
+2024-10-27 19:05:30,742:logger:successfully droped duplicates
+2024-10-27 20:45:37,045:logger:successfully displayed histogram plot
+2024-10-27 20:47:51,852:logger:successfully displayed histogram plot
+2024-10-27 20:48:03,753:logger:successfully displayed histogram plot
+2024-10-27 20:48:19,089:logger:successfully displayed bar plot
+2024-10-27 20:48:19,489:logger:successfully displayed bar plot
+2024-10-27 20:48:29,082:logger:successfully displayed bar plot
+2024-10-27 20:48:34,549:logger:successfully displayed count plot
+2024-10-27 20:48:39,616:logger:successfully displayed count plot
+2024-10-27 20:48:45,250:logger:successfully displayed count plot
+2024-10-27 20:49:11,003:logger:successfully displayed count plot
+2024-10-27 20:49:20,913:logger:successfully displayed count plot
+2024-10-27 20:51:10,516:logger:successfully displayed heatmap plot
+2024-10-27 20:51:31,049:logger:promo usage for the train data is 38.151451668241236 %
+2024-10-27 20:51:31,050:logger:promo usage for the test data is 39.583333333333336 %
+2024-10-27 20:51:55,377:logger:              Sales  Customers
+Sales      1.000000   0.894711
+Customers  0.894711   1.000000
+2024-10-27 20:51:55,421:logger:successfully displayed heatmap plot
+2024-10-27 20:52:00,363:logger:promotions have increase the mean of sales by 81.3676782076572 %
+2024-10-27 20:52:00,364:logger:promotions have increase the mean of customers by 58.37418513261995 %
+2024-10-27 20:52:10,147:logger: increase on all store with average is 62.184235408598724
+2024-10-27 20:52:15,699:logger:              Promo  Customers
+Promo      1.000000   0.316169
+Customers  0.316169   1.000000
+2024-10-27 20:52:15,756:logger:successfully displayed heatmap plot
+2024-10-27 20:52:44,852:logger:successfully displayed catplot plot
+2024-10-27 20:53:13,149:logger:successfully displayed catplot plot
+2024-10-27 20:53:28,059:logger:successfully displayed heatmap plot
