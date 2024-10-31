@@ -76,6 +76,6 @@ The repository is organized as follows:
 To set up the project locally, follow these steps:
 
 ```bash
-git clone https://github.com/PankajDevikar/Rossmann-Pharmaceuticals-Sales-Prediction
+git clone [https://github.com/PankajDevikar/Project_6_Rossmann-Pharmaceuticals-Sales-Prediction]
 cd Rossmann-Pharmaceuticals-Sales-Prediction
 pip install -r requirements.txt
